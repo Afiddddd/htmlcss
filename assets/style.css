@@ -1,0 +1,74 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.linkk {
+    font: Bold 18px 'Montserrat', sans-serif;
+    color: #02454F;
+}
+
+
+#main {
+    background-color: #02454F;
+}
+
+.form-register {
+    background-color: white;
+}
+
+#tagline {
+    back;
+}
+
+.btn-pay {
+    background-color: #02454F;
+    font: Bold 18px 'Montserrat', sans-serif;
+}
+
+.tos {
+    font: Bold 10px;
+    text-align: justify;
+    color: grey
+}
+
+.tagline {
+    color: #FAFBFB;
+    font: bold 48px;
+    width: 248px;
+    height: 60px;
+    font-weight: bold;
+
+}
+
+
+.tagline-2 {
+    color: #FAFBFB;
+    font: bold 48px;
+    width: 367px;
+    height: 60px;
+    font-weight: bold;
+
+}
+
+.tagline-3 {
+    color: #FAFBFB;
+    font: bold 36px;
+    width: 62px;
+    height: 45px;
+    font-weight: bold;
+
+}
+
+.tagline-card {
+    justify-content: center;
+    align-content: space-between;
+}
+
+.card-text {
+    color: #FAFBFB
+}
+
+.form-list-candidate {
+    background-color: white;
+    padding-top: 10px 10px;
+}
